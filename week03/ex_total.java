@@ -1,10 +1,10 @@
 package week03;
-
-public class ex_sum {
+public class ex_total {
     public static void main(String[] args) {
         int total = 0;
-        total = sumN1N(1, 10);9
-        System.out.print("total : " + total);
+        int a=1 , b=10;
+        total = sumN1N(a, b);
+        System.out.print(a + " ~ " + b + " total : " + total);
     }
     static int sumN1N(int begin, int end) {
         int i=0;
