@@ -12,3 +12,4 @@ public class Q2_Fish {
         myFish.weight = 250.5;
         myFish.displayInfo();
     }
+}

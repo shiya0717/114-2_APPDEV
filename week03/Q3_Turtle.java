@@ -15,3 +15,4 @@ public class Q3_Turtle {
         Q3_Turtle turtle = new Q3_Turtle("綠蠵龜", 50);
         turtle.showDetails();
     }
+}
